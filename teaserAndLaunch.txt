@@ -1,0 +1,60 @@
+[CASINO/JMS] Slot Teaser and Launch: casinoMoMummy, jmsMoMummy
+
+##DIRECT PUBLISH
+
+
+----------
+
+
+
+##CASINO COPY
+
+----------
+
+###POP UP
+sharedMoMummyTeaser
+[Banner: NEW SLOT COMING SOON!]
+[Silhouette of something unique to Mo Mummy]
+(Add VIP Badge somewhere)
+CTA: Can't Wait! [closes popup]
+
+casinoMoMummyReleaseVIP
+[Mo Mummy logo]
+(Add VIP Badge somewhere)
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: Let's Play! [goes to buy-in 785/ theme: momummy]
+
+casinoMoMummyReleaseNonVIP
+[Mo Mummy logo]
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: Let's Play! [goes to buy-in 784/ theme: momummy]
+
+-----------
+##JMS COPY
+
+----------
+###POP UP
+sharedMoMummyTeaser
+[Banner: NEW SLOT COMING SOON!]
+[Silhouette of something unique to Mo Mummy]
+(Add VIP Badge somewhere)
+CTA: Can't Wait! [closes popup]
+
+jmsMoMummyReleaseVIP
+[Mo Mummy logo]
+(Add VIP Badge somewhere)
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: Let's Play! [goes to buy-in 5771/ theme: momummy]
+
+jmsMoMummyReleaseNonVIP
+[Mo Mummy logo]
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: Let's Play! [goes to buy-in 5770/ theme: momummy]
+
+--------
+
+

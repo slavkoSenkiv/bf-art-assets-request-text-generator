@@ -1,0 +1,85 @@
+##DIRECT PUBLISH
+
+
+#GRID BUTTON
+
+casinoSurgeMoMummy
+
+jmsSurgeMoMummy
+
+----------
+
+
+##CASINO COPY
+
+----------
+###POP UP
+**casinoSurgeMoMummyNonVIP2x** | **3x**
+
+[Jackpot Surge Template]
+[MoMummy logo]
+Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo' Mummy)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy in 784/ theme: momummy]
+
+###POP UP
+**casinoSurgeMoMummyVIP2x** | **3x**
+
+[Jackpot Surge Template]
+[VIP badge, MoMummy logo]
+Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo' Mummy)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy in 785/ theme: momummy]
+
+###POP UP
+**casinoSurgeMoMummyHR2x** | **3x**
+
+[Jackpot Surge Template]
+[HR badge, Mo' Mummy logo]
+Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in MoMummy)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy in 786/ theme: momummy]
+
+-----------
+###GRID BUTTONS
+**casinoSurgeMoMummy**
+Jackpot Surge [Mo' Mummy themed]
+
+-----------
+##JMS COPY
+
+----------
+###POP UP
+**jmsMoMummySurgeNonVIP2x** | **3x**
+
+[Jackpot Surge Template]
+[Mo' Mummy logo]
+Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo' Mummy)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy in 5770/ theme: momummy]
+
+###POP UP
+**jmsMoMummySurgeVIP2x** | **3x**
+
+[Jackpot Surge Template]
+[VIP badge, Mo Mummy logo]
+Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo' Mummy)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy in 5771/ theme: momummy]
+
+-----------
+###GRID BUTTONS
+**jmsSurgeMoMummy**
+Jackpot Surge [Mo' Mummy]
+
+-----------
