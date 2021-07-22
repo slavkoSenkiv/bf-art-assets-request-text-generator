@@ -1,59 +1,52 @@
 [CASINO/JMS] Slot Teaser and Launch: casinoMoMummy, jmsMoMummy
 
 ##DIRECT PUBLISH
-
-
 ----------
-
-
-
 ##CASINO COPY
-
 ----------
-
 ###POP UP
-sharedMoMummyTeaser
+**sharedMoMummyTeaser**
 [Banner: NEW SLOT COMING SOON!]
 [Silhouette of something unique to Mo Mummy]
 (Add VIP Badge somewhere)
 CTA: Can't Wait! [closes popup]
 
-casinoMoMummyReleaseVIP
+**casinoMoMummyReleaseVIP**
 [Mo Mummy logo]
 (Add VIP Badge somewhere)
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in 785/ theme: momummy]
+CTA: Let's Play! [goes to buy-in id_vip/ theme: momummy]
 
-casinoMoMummyReleaseNonVIP
+**casinoMoMummyReleaseNonVIP**
 [Mo Mummy logo]
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in 784/ theme: momummy]
+CTA: Let's Play! [goes to buy-in id_non_vip/ theme: momummy]
+
 
 -----------
 ##JMS COPY
-
 ----------
 ###POP UP
-sharedMoMummyTeaser
+**sharedMoMummyTeaser**
 [Banner: NEW SLOT COMING SOON!]
 [Silhouette of something unique to Mo Mummy]
 (Add VIP Badge somewhere)
 CTA: Can't Wait! [closes popup]
 
-jmsMoMummyReleaseVIP
+**jmsMoMummyReleaseVIP**
 [Mo Mummy logo]
 (Add VIP Badge somewhere)
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in 5771/ theme: momummy]
+CTA: Let's Play! [goes to buy-in id_vip/ theme: momummy]
 
-jmsMoMummyReleaseNonVIP
+**jmsMoMummyReleaseNonVIP**
 [Mo Mummy logo]
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in 5770/ theme: momummy]
+CTA: Let's Play! [goes to buy-in id_non_vip/ theme: momummy]
 
 --------
 

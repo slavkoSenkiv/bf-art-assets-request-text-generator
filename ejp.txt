@@ -1,0 +1,53 @@
+[CASINO/JMS] Slot Themed EJP: casinoMoMummyVIPEJP, casinoMoMummyHREJP, jmsMoMummyVIPEJP
+
+##DIRECT PUBLISH INFO
+
+----------
+##CASINO COPY
+----------
+###POP UP
+
+**casinoMoMummyVIPEJP | casinoMoMummyHREJP**
+Title: [Mo Mummy] ELITE JACKPOTS
+
+Look for the
+[Arrow pointing to Mo Mummy Grid Button with Elite Jackpot Banner]
+(Add VIP Badge somewhere | Add HR Badge somewhere)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy-in ID: id_vip (VIP) | id_hr (HR); theme: momummy
+
+Fine print: Available on MoMummy VIP only. | Available on MoMummy High Roller only.
+
+-----------
+###GRID BUTTONS
+**sharedMoMummyEJP**
+[Elite Jackpots ticker with MoMummy art]
+
+
+
+----------
+##JMS COPY
+----------
+###POP UP
+
+**jmsMoMummyVIPEJP**
+Title: [Mo Mummy] ELITE JACKPOTS
+
+Look for the
+[Arrow pointing to MoMummy Grid Button with Elite Jackpot Banner]
+(Add VIP Badge somewhere)
+
+[Timer Panel]
+
+CTA: Let's Go! [buy-in ID: id_vip theme: momummy]
+
+Fine print: Available on Mo Mummy VIP only.
+
+-----------
+###GRID BUTTONS
+**sharedMoMummyEJP**
+[Elite Jackpots ticker with MoMummy art]
+
+-----------

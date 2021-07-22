@@ -1,0 +1,40 @@
+[CASINO/JMS] Slot Themed Sale: casinoMoMummySale, jmsMoMummySale
+
+###SALE BANNER
+
+-----------
+##CASINO COPY
+----------
+
+###POP UP
+**casinoMoMummySale5.25x | 5.75x | 6.25x | 6.75x **
+5.25X SALE! | 5.75X SALE! | 6.25X SALE! | 6.75X SALE!
+BUY NOW! (links to store)
+-----------
+###GRID BUTTONS
+**sharedoMoMummySale**
+SPECIAL SALE!
+-----------
+###SALE BANNER
+**sharedoMoMummySale**
+SPECIAL SALE!
+
+-----------
+##JMS COPY
+----------
+###POP UP
+**jmsMoMummySale125x | 175x**
+1.25X SALE! | 1.75 SALE! |
+BUY NOW! (links to store)
+
+-----------
+###GRID BUTTONS
+**sharedMoMummySale**
+SPECIAL SALE!
+
+-----------
+###SALE BANNER
+**sharedoMoMummySale**
+SPECIAL SALE!
+
+-----------
