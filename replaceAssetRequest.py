@@ -11,7 +11,6 @@ def handler(doc_file, new_name, id_non_vip, id_vip, id_hr, theme_name):
     file = open(file_path, 'r')
     file_content = file.read()
 
-
     if new_name_no_space != '-':
         file_content = file_content.replace('MoMummy', new_name_no_space)
     if new_name_no_space == '-':
