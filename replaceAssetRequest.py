@@ -1,21 +1,16 @@
 import pyperclip, re, pyinputplus
 from pathlib import Path
 
-"""def replacer(thing_to_replace, old_text, new_text):
-    if thing_to_replace != '-':
-        file_content = file_content.replace(old_text, new_text)
-    if thing_to_replace == '-':
-        file_content = file_content.replace(old_text, 'TBD')"""
 
-
-def renamer(asset, new_name, id_non_vip, id_vip, id_hr, theme):
+def handler(doc_file, new_name, id_non_vip, id_vip, id_hr, theme_name):
 
     new_name_no_symbols = re.sub(r'[^\w]', ' ', new_name)
     new_name_no_space = new_name_no_symbols.replace(' ', '')
 
-    file_path = Path.cwd()/f'{asset}.txt'
+    file_path = Path.cwd()/f'{doc_file}.txt'
     file = open(file_path, 'r')
     file_content = file.read()
+
 
     if new_name_no_space != '-':
         file_content = file_content.replace('MoMummy', new_name_no_space)
@@ -43,7 +38,7 @@ def renamer(asset, new_name, id_non_vip, id_vip, id_hr, theme):
         file_content = file_content.replace('id_hr', 'TBD')
 
     if theme != '-':
-        file_content = file_content.replace('momummy', theme)
+        file_content = file_content.replace('momummy', theme_name)
     if theme == '-':
         file_content = file_content.replace('momummy', 'TBD')
 
@@ -52,7 +47,7 @@ def renamer(asset, new_name, id_non_vip, id_vip, id_hr, theme):
     print(file_content)
 
 
-newSlotNameNormal = "Dog-town: Miami Un-leashed Remix"
+newSlotNameNormal = "1 Dog-town: Miami Un-leashed Remix"
 buyInIdNonViP = '111'
 buyInIdViP = '222'
 buyInIdHR = '333'
@@ -71,7 +66,7 @@ while True:
                                  'ejp',
                                  'offer'], 'pick asset u want copy to clipboard:\n', numbered=True)
 
-    renamer(doc, newSlotNameNormal, buyInIdNonViP, buyInIdViP, buyInIdHR, theme)
+    handler(doc, newSlotNameNormal, buyInIdNonViP, buyInIdViP, buyInIdHR, theme)
 
 
 
