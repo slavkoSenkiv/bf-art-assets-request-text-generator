@@ -44,7 +44,7 @@ CTA: Let's Go! [buy in id_hr/ theme: momummy]
 -----------
 ###GRID BUTTONS
 **casinoSurgeMoMummy**
-Jackpot Surge [Mo' Mummy themed]
+Jackpot Surge [MoMummy themed]
 
 
 -----------
@@ -75,5 +75,5 @@ CTA: Let's Go! [buy in id_vip/ theme: momummy]
 -----------
 ###GRID BUTTONS
 **jmsSurgeMoMummy**
-Jackpot Surge [Mo' Mummy]
+Jackpot Surge [MoMummy themed]
 -----------

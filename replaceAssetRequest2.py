@@ -2,10 +2,25 @@ import pyperclip, re, pyinputplus
 from pathlib import Path
 
 
+def add_multipliers(slot_name_no_symbols, multipliers):
+    sting1 = '** ' + slot_name_no_symbols
+    string2 = ''
+    for i in multipliers:
+        if multipliers.index(i) < len(multipliers) - 1:
+            sting1 = sting1 + i + 'x | '
+            string2 = string2 + i + 'X SALE! | '
+        else:
+            sting1 = sting1 + i + 'x **'
+            string2 = string2 + i + 'X SALE!'
+
+    sting1 = sting1.replace('.', '')
+    return sting1 + '\n' + string2
+
+
 def replacer(new_text, old_text, doc_content):
-    if new_text == None:
+    if new_text == '':
         doc_content = doc_content.replace(old_text, 'TBD')
-    if new_text != None:
+    if new_text != '':
         doc_content = doc_content.replace(old_text, new_text)
     return doc_content
 
@@ -22,9 +37,11 @@ def handler(doc_file, new_name, id_non_vip, id_vip, id_hr, theme_name):
     file_content = replacer(new_name_no_space, 'MoMummy', file_content)
     file_content = replacer(new_name, 'Mo Mummy', file_content)
     file_content = replacer(id_non_vip, 'id_non_vip', file_content)
-    file_content = replacer(id_vip, 'id_non_vip', file_content)
+    file_content = replacer(id_vip, 'id_vip', file_content)
     file_content = replacer(id_hr, 'id_hr', file_content)
     file_content = replacer(theme_name, 'momummy', file_content)
+    file_content = replacer(add_multipliers(new_name_no_space, saleMultipliersBFC), '** nameWithMultipliersBFC **', file_content)
+    file_content = replacer(add_multipliers(new_name_no_space, saleMultipliersJMS), '** nameWithMultipliersJMS **', file_content)
 
     pyperclip.copy(file_content)
     print(file_content)
@@ -36,10 +53,13 @@ def ask(thing):
 
 
 newSlotNameNormal = ask('SLOT NAME')
+saleMultipliersBFC = ask('BFC SALE MULTIPLIERS with decimals, separated by space, like eg "5.5 1.25"').split(' ')
+saleMultipliersJMS = ask('JMS SALE MULTIPLIERS with decimals, separated by space, like eg "5.5 1.25"').split(' ')
 buyInIdNonVIP = ask('ID for NON VIP')
 buyInIdVIP = ask('ID for VIP')
 buyInIdHR = ask('ID for HR')
 theme = ask('THEME')
+print(saleMultipliersBFC)
 
 while True:
     doc = pyinputplus.inputMenu(['teaser+launch',
