@@ -59,7 +59,6 @@ buyInIdNonVIP = ask('ID for NON VIP')
 buyInIdVIP = ask('ID for VIP')
 buyInIdHR = ask('ID for HR')
 theme = ask('THEME')
-print(saleMultipliersBFC)
 
 while True:
     doc = pyinputplus.inputMenu(['teaser+launch',
@@ -69,8 +68,6 @@ while True:
                                  'offer'], 'enter number to copy to clipboard:\n', numbered=True)
 
     handler(doc, newSlotNameNormal, buyInIdNonVIP, buyInIdVIP, buyInIdHR, theme)
-
-
 
 
 
