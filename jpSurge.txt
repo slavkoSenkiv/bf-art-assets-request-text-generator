@@ -1,79 +1,60 @@
 [CASINO/JMS] New Slot Jackpot Surge: casinoMoMummyJPSurge, jmsMoMummyJPSurge
 
 ##DIRECT PUBLISH
-
 #GRID BUTTON
-
 
 ----------
 ##CASINO COPY
 ----------
 ###POP UP
-**casinoSurgeMoMummyNonVIP2x** | **3x**
-
+**casinoMoMummySurgeNonVIP2x** | **3x**
 [Jackpot Surge Template]
-[MoMummy logo]
-Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo Mummy)
-
+[Mo Mummy logo]
+Win 2x | 3x the largest_jp_name_here
 [Timer Panel]
-
-CTA: Let's Go! [buy in id_non_vip/ theme: momummy]
+CTA: LET'S PLAY! [buy in NonVIP_BuyInIDsBFC / theme: momummy]
 
 ###POP UP
-**casinoSurgeMoMummyVIP2x** | **3x**
-
+**casinoMoMummySurgeVIP2x** | **3x**
 [Jackpot Surge Template]
-[VIP badge, MoMummy logo]
-Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo Mummy)
-
+[Mo Mummy logo]
+Win 2x | 3x the largest_jp_name_here
 [Timer Panel]
-
-CTA: Let's Go! [buy in id_vip/ theme: momummy]
+CTA: PLAY VIP!! [buy in VIP_BuyInIDsBFC / theme: momummy]
 
 ###POP UP
-**casinoSurgeMoMummyHR2x** | **3x**
-
+**casinoMoMummySurgeHR2x** | **3x**
 [Jackpot Surge Template]
-[HR badge, Mo' Mummy logo]
-Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in MoMummy)
-
+[Mo Mummy logo]
+Win 2x | 3x the largest_jp_name_here
 [Timer Panel]
-
-CTA: Let's Go! [buy in id_hr/ theme: momummy]
+CTA: PLAY HIGH ROLLER! [buy in HR_BuyInIDsBFC / theme: momummy]
 
 -----------
 ###GRID BUTTONS
-**casinoSurgeMoMummy**
-Jackpot Surge [MoMummy themed]
-
+**casinoMoMummySurge**
+Jackpot Surge [Mo Mummy themed]
 
 -----------
 ##JMS COPY
 -----------
 ###POP UP
 **jmsMoMummySurgeNonVIP2x** | **3x**
-
 [Jackpot Surge Template]
 [Mo Mummy logo]
-Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo Mummy)
-
+Win 2x | 3x the largest_jp_name_here
 [Timer Panel]
-
-CTA: Let's Go! [buy in id_non_vip/ theme: momummy]
+CTA: LET'S PLAY! [buy in NonVIP_BuyInIDsJMS / theme: momummy]
 
 ###POP UP
 **jmsMoMummySurgeVIP2x** | **3x**
-
 [Jackpot Surge Template]
-[VIP badge, Mo Mummy logo]
-Win 2x | 3x the TBD Jackpot! (there's multiple jackpots in Mo Mummy)
-
+[Mo Mummy logo]
+Win 2x | 3x the largest_jp_name_here
 [Timer Panel]
-
-CTA: Let's Go! [buy in id_vip/ theme: momummy]
+CTA: PLAY VIP! [buy in VIP_BuyInIDsJMS / theme: momummy]
 
 -----------
 ###GRID BUTTONS
-**jmsSurgeMoMummy**
-Jackpot Surge [MoMummy themed]
------------
+**jmsMoMummySurge**
+Jackpot Surge [Mo Mummy themed]

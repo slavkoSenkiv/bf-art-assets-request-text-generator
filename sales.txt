@@ -7,22 +7,7 @@
 ----------
 
 ###POP UP
-** nameWithMultipliersBFC **
-BUY NOW! (links to store)
------------
-###GRID BUTTONS
-**sharedoMoMummySale**
-SPECIAL SALE!
------------
-###SALE BANNER
-**sharedoMoMummySale**
-SPECIAL SALE!
-
------------
-##JMS COPY
-----------
-###POP UP
-** nameWithMultipliersJMS **
+** casinoNameWithMultipliersBFC
 BUY NOW! (links to store)
 
 -----------
@@ -32,7 +17,22 @@ SPECIAL SALE!
 
 -----------
 ###SALE BANNER
-**sharedoMoMummySale**
+**sharedMoMummySale**
 SPECIAL SALE!
 
 -----------
+##JMS COPY
+----------
+###POP UP
+** jmsNameWithMultipliersJMS
+BUY NOW! (links to store)
+
+-----------
+###GRID BUTTONS
+**sharedMoMummySale**
+SPECIAL SALE!
+
+-----------
+###SALE BANNER
+**sharedMoMummySale**
+SPECIAL SALE!

@@ -6,18 +6,12 @@
 ##CASINO COPY
 ----------
 ###POP UP
-
 **casinoMoMummyVIPEJP | casinoMoMummyHREJP**
 Title: [Mo Mummy] ELITE JACKPOTS
-
-Look for the
-[Arrow pointing to Mo Mummy Grid Button with Elite Jackpot Banner]
-(Add VIP Badge somewhere | Add HR Badge somewhere)
-
+Look for the [Arrow pointing to Mo Mummy Grid Button with Elite Jackpot Banner]
 [Timer Panel]
-
-CTA: Let's Go! [buy-in ID: id_vip (VIP) | id_hr (HR); theme: momummy
-
+CTA: PLAY VIP! | PLAY HIGH ROLLER! [buy-in ID: VIP_BuyInIDsBFC (VIP) | HR_BuyInIDsBFC (HR);
+theme: momummy
 Fine print: Available on MoMummy VIP only. | Available on MoMummy High Roller only.
 
 -----------
@@ -25,24 +19,16 @@ Fine print: Available on MoMummy VIP only. | Available on MoMummy High Roller on
 **sharedMoMummyEJP**
 [Elite Jackpots ticker with MoMummy art]
 
-
-
 ----------
 ##JMS COPY
 ----------
 ###POP UP
-
 **jmsMoMummyVIPEJP**
 Title: [Mo Mummy] ELITE JACKPOTS
-
-Look for the
-[Arrow pointing to MoMummy Grid Button with Elite Jackpot Banner]
-(Add VIP Badge somewhere)
-
+Look for the [Arrow pointing to MoMummy Grid Button with Elite Jackpot Banner]
 [Timer Panel]
-
-CTA: Let's Go! [buy-in ID: id_vip theme: momummy]
-
+CTA: PLAY VIP! [buy-in ID: VIP_BuyInIDsJMS ]
+theme: momummy
 Fine print: Available on Mo Mummy VIP only.
 
 -----------

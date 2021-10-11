@@ -8,22 +8,21 @@
 **sharedMoMummyTeaser**
 [Banner: NEW SLOT COMING SOON!]
 [Silhouette of something unique to Mo Mummy]
-(Add VIP Badge somewhere)
-CTA: Can't Wait! [closes popup]
+CTA: CAN'T WAIT! [closes popup]
 
-**casinoMoMummyReleaseVIP**
-[Mo Mummy logo]
-(Add VIP Badge somewhere)
-Tagline: TBD
-[Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in id_vip/ theme: momummy]
-
+###POP UP
 **casinoMoMummyReleaseNonVIP**
 [Mo Mummy logo]
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in id_non_vip/ theme: momummy]
+CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsBFC / theme: momummy]
 
+###POP UP
+**casinoMoMummyReleaseVIP**
+[Mo Mummy logo]
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsBFC / theme: momummy]
 
 -----------
 ##JMS COPY
@@ -32,22 +31,20 @@ CTA: Let's Play! [goes to buy-in id_non_vip/ theme: momummy]
 **sharedMoMummyTeaser**
 [Banner: NEW SLOT COMING SOON!]
 [Silhouette of something unique to Mo Mummy]
-(Add VIP Badge somewhere)
 CTA: Can't Wait! [closes popup]
 
-**jmsMoMummyReleaseVIP**
-[Mo Mummy logo]
-(Add VIP Badge somewhere)
-Tagline: TBD
-[Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in id_vip/ theme: momummy]
-
+###POP UP
 **jmsMoMummyReleaseNonVIP**
 [Mo Mummy logo]
 Tagline: TBD
 [Something unique to Mo Mummy]
-CTA: Let's Play! [goes to buy-in id_non_vip/ theme: momummy]
+CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsJMS / theme: momummy]
+
+###POP UP
+**jmsMoMummyReleaseVIP**
+[Mo Mummy logo]
+Tagline: TBD
+[Something unique to Mo Mummy]
+CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsJMS / theme: momummy]
 
 --------
-
-
