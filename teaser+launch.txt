@@ -1,46 +1,46 @@
-[CASINO/JMS] Slot Teaser and Launch: casinoMoMummy, jmsMoMummy
+[CASINO/JMS] Slot Teaser and Launch: casino/SlotName/, jms/SlotName/
 
 ##DIRECT PUBLISH
 ----------
 ##CASINO COPY
 ----------
 ###POP UP
-**sharedMoMummyTeaser**
+**shared/SlotName/Teaser**
 [Banner: NEW SLOT COMING SOON!]
-[Silhouette of something unique to Mo Mummy]
+[Silhouette of something unique to /Slot Name/]
 CTA: CAN'T WAIT! [closes popup]
 
 ###POP UP
-**casinoMoMummyReleaseNonVIP**
-[Mo Mummy logo]
-[Something unique to Mo Mummy]
-CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsBFC / theme: momummy]
+**casino/SlotName/ReleaseNonVIP**
+[/Slot Name/ logo]
+[Something unique to /Slot Name/]
+CTA: LET'S PLAY! [goes to buy-in /NonVIPBuyInIDsBFC/ / theme: /themename/]
 
 ###POP UP
-**casinoMoMummyReleaseVIP**
-[Mo Mummy logo]
-[Something unique to Mo Mummy]
-CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsBFC / theme: momummy]
+**casino/SlotName/ReleaseVIP**
+[/Slot Name/ logo]
+[Something unique to /Slot Name/]
+CTA: PLAY VIP! [goes to buy-in /VIPBuyInIDsBFC/ / theme: /themename/]
 
 -----------
 ##JMS COPY
 ----------
 ###POP UP
-**sharedMoMummyTeaser**
+**shared/SlotName/Teaser**
 [Banner: NEW SLOT COMING SOON!]
-[Silhouette of something unique to Mo Mummy]
+[Silhouette of something unique to /Slot Name/]
 CTA: Can't Wait! [closes popup]
 
 ###POP UP
-**jmsMoMummyReleaseNonVIP**
-[Mo Mummy logo]
-[Something unique to Mo Mummy]
-CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsJMS / theme: momummy]
+**jms/SlotName/ReleaseNonVIP**
+[/Slot Name/ logo]
+[Something unique to /Slot Name/]
+CTA: LET'S PLAY! [goes to buy-in /NonVIPBuyInIDsJMS/ / theme: /themename/]
 
 ###POP UP
-**jmsMoMummyReleaseVIP**
-[Mo Mummy logo]
-[Something unique to Mo Mummy]
-CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsJMS / theme: momummy]
+**jms/SlotName/ReleaseVIP**
+[/Slot Name/ logo]
+[Something unique to /Slot Name/]
+CTA: PLAY VIP! [goes to buy-in /VIPBuyInIDsJMS/ / theme: /themename/]
 
 --------

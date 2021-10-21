@@ -1,4 +1,4 @@
-[CASINO/JMS] Slot Themed EJP: casinoMoMummyVIPEJP, casinoMoMummyHREJP, jmsMoMummyVIPEJP
+[CASINO/JMS] Slot Themed EJP: casino/SlotName/VIPEJP, casino/SlotName/HREJP, jms/SlotName/VIPEJP
 
 ##DIRECT PUBLISH INFO
 
@@ -6,34 +6,34 @@
 ##CASINO COPY
 ----------
 ###POP UP
-**casinoMoMummyVIPEJP | casinoMoMummyHREJP**
-Title: [Mo Mummy] ELITE JACKPOTS
-Look for the [Arrow pointing to Mo Mummy Grid Button with Elite Jackpot Banner]
+**casino/SlotName/VIPEJP | casino/SlotName/HREJP**
+Title: [/Slot Name/] ELITE JACKPOTS
+Look for the [Arrow pointing to /Slot Name/ Grid Button with Elite Jackpot Banner]
 [Timer Panel]
-CTA: PLAY VIP! | PLAY HIGH ROLLER! [buy-in ID: VIP_BuyInIDsBFC (VIP) | HR_BuyInIDsBFC (HR);
-theme: momummy
-Fine print: Available on MoMummy VIP only. | Available on MoMummy High Roller only.
+CTA: PLAY VIP! | PLAY HIGH ROLLER! [buy-in ID: /VIPBuyInIDsBFC/ (VIP) | /HRBuyInIDsBFC/ (HR);
+theme: /themename/
+Fine print: Available on /Slot Name/ VIP only. | Available on /Slot Name/ High Roller only.
 
 -----------
 ###GRID BUTTONS
-**sharedMoMummyEJP**
-[Elite Jackpots ticker with MoMummy art]
+**shared/SlotName/EJP**
+[Elite Jackpots ticker with /Slot Name/ art]
 
 ----------
 ##JMS COPY
 ----------
 ###POP UP
-**jmsMoMummyVIPEJP**
-Title: [Mo Mummy] ELITE JACKPOTS
-Look for the [Arrow pointing to MoMummy Grid Button with Elite Jackpot Banner]
+**jms/SlotName/VIPEJP**
+Title: [/Slot Name/] ELITE JACKPOTS
+Look for the [Arrow pointing to /Slot Name/ Grid Button with Elite Jackpot Banner]
 [Timer Panel]
-CTA: PLAY VIP! [buy-in ID: VIP_BuyInIDsJMS ]
-theme: momummy
-Fine print: Available on Mo Mummy VIP only.
+CTA: PLAY VIP! [buy-in ID: /VIPBuyInIDsJMS/ ]
+theme: /themename/
+Fine print: Available on /Slot Name/ VIP only.
 
 -----------
 ###GRID BUTTONS
-**sharedMoMummyEJP**
-[Elite Jackpots ticker with MoMummy art]
+**shared/SlotName/EJP**
+[Elite Jackpots ticker with /Slot Name/ art]
 
 -----------

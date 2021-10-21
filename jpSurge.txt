@@ -1,4 +1,4 @@
-[CASINO/JMS] New Slot Jackpot Surge: casinoMoMummyJPSurge, jmsMoMummyJPSurge
+[CASINO/JMS] New Slot Jackpot Surge: casino/SlotName/JPSurge, jms/SlotName/JPSurge
 
 ##DIRECT PUBLISH
 #GRID BUTTON
@@ -7,54 +7,54 @@
 ##CASINO COPY
 ----------
 ###POP UP
-**casinoMoMummySurgeNonVIP2x** | **3x**
+**casino/SlotName/SurgeNonVIP2x** | **3x**
 [Jackpot Surge Template]
-[Mo Mummy logo]
-Win 2x | 3x the largest_jp_name_here
+[/Slot Name/ logo]
+Win 2x | 3x the /largestJPNameHere/
 [Timer Panel]
-CTA: LET'S PLAY! [buy in NonVIP_BuyInIDsBFC / theme: momummy]
+CTA: LET'S PLAY! [buy in /NonVIPBuyInIDsBFC/ / theme: /themename/]
 
 ###POP UP
-**casinoMoMummySurgeVIP2x** | **3x**
+**casino/SlotName/SurgeVIP2x** | **3x**
 [Jackpot Surge Template]
-[Mo Mummy logo]
-Win 2x | 3x the largest_jp_name_here
+[/Slot Name/ logo]
+Win 2x | 3x the /largestJPNameHere/
 [Timer Panel]
-CTA: PLAY VIP!! [buy in VIP_BuyInIDsBFC / theme: momummy]
+CTA: PLAY VIP!! [buy in /VIPBuyInIDsBFC/ / theme: /themename/]
 
 ###POP UP
-**casinoMoMummySurgeHR2x** | **3x**
+**casino/SlotName/SurgeHR2x** | **3x**
 [Jackpot Surge Template]
-[Mo Mummy logo]
-Win 2x | 3x the largest_jp_name_here
+[/Slot Name/ logo]
+Win 2x | 3x the /largestJPNameHere/
 [Timer Panel]
-CTA: PLAY HIGH ROLLER! [buy in HR_BuyInIDsBFC / theme: momummy]
+CTA: PLAY HIGH ROLLER! [buy in /HRBuyInIDsBFC/ / theme: /themename/]
 
 -----------
 ###GRID BUTTONS
-**casinoMoMummySurge**
-Jackpot Surge [Mo Mummy themed]
+**casino/SlotName/Surge**
+Jackpot Surge [/Slot Name/ themed]
 
 -----------
 ##JMS COPY
 -----------
 ###POP UP
-**jmsMoMummySurgeNonVIP2x** | **3x**
+**jms/SlotName/SurgeNonVIP2x** | **3x**
 [Jackpot Surge Template]
-[Mo Mummy logo]
-Win 2x | 3x the largest_jp_name_here
+[/Slot Name/ logo]
+Win 2x | 3x the /largestJPNameHere/
 [Timer Panel]
-CTA: LET'S PLAY! [buy in NonVIP_BuyInIDsJMS / theme: momummy]
+CTA: LET'S PLAY! [buy in /NonVIPBuyInIDsJMS/ / theme: /themename/]
 
 ###POP UP
-**jmsMoMummySurgeVIP2x** | **3x**
+**jms/SlotName/SurgeVIP2x** | **3x**
 [Jackpot Surge Template]
-[Mo Mummy logo]
-Win 2x | 3x the largest_jp_name_here
+[/Slot Name/ logo]
+Win 2x | 3x the /largestJPNameHere/
 [Timer Panel]
-CTA: PLAY VIP! [buy in VIP_BuyInIDsJMS / theme: momummy]
+CTA: PLAY VIP! [buy in /VIPBuyInIDsJMS/ / theme: /themename/]
 
 -----------
 ###GRID BUTTONS
-**jmsMoMummySurge**
-Jackpot Surge [Mo Mummy themed]
+**jms/SlotName/Surge**
+Jackpot Surge [/Slot Name/ themed]

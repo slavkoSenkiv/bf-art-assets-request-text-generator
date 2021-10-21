@@ -1,4 +1,4 @@
-[CASINO/JMS] Mo Mummy Dynamic Popup: MoMummyOffer
+[CASINO/JMS] /Slot Name/ Dynamic Popup: /SlotName/Offer
 
 ###SOURCE FILES
 ---------
@@ -9,15 +9,15 @@
 ##CASINO/JMS COPY
 ----------
 ###POP UP
-**MoMummyOffer**
-Title: [Mo Mummy logo]
+**/SlotName/Offer**
+Title: [/Slot Name/ logo]
 Just For You!
 [Timer Panel]
 
 -----------
 ###GRID BUTTONS
-**MoMummyOfferA**
+**/SlotName/OfferA**
 Offer Just For You!
 
-**MoMummyOfferB**
+**/SlotName/OfferB**
 Offer of the Day!

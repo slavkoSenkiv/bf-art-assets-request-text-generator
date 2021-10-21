@@ -1,4 +1,4 @@
-[CASINO/JMS] Slot Themed Sale: casinoMoMummySale, jmsMoMummySale
+[CASINO/JMS] Slot Themed Sale: casino/SlotName/Sale, jms/SlotName/Sale
 
 ###SALE BANNER
 
@@ -7,32 +7,32 @@
 ----------
 
 ###POP UP
-** casinoNameWithMultipliersBFC
+** casino/NameWithMultipliersBFC/
 BUY NOW! (links to store)
 
 -----------
 ###GRID BUTTONS
-**sharedMoMummySale**
+**shared/SlotName/Sale**
 SPECIAL SALE!
 
 -----------
 ###SALE BANNER
-**sharedMoMummySale**
+**shared/SlotName/Sale**
 SPECIAL SALE!
 
 -----------
 ##JMS COPY
 ----------
 ###POP UP
-** jmsNameWithMultipliersJMS
+** jms/NameWithMultipliersJMS/
 BUY NOW! (links to store)
 
 -----------
 ###GRID BUTTONS
-**sharedMoMummySale**
+**shared/SlotName/Sale**
 SPECIAL SALE!
 
 -----------
 ###SALE BANNER
-**sharedMoMummySale**
+**shared/SlotName/Sale**
 SPECIAL SALE!
