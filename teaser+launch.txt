@@ -13,14 +13,12 @@ CTA: CAN'T WAIT! [closes popup]
 ###POP UP
 **casinoMoMummyReleaseNonVIP**
 [Mo Mummy logo]
-Tagline: TBD
 [Something unique to Mo Mummy]
 CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsBFC / theme: momummy]
 
 ###POP UP
 **casinoMoMummyReleaseVIP**
 [Mo Mummy logo]
-Tagline: TBD
 [Something unique to Mo Mummy]
 CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsBFC / theme: momummy]
 
@@ -36,14 +34,12 @@ CTA: Can't Wait! [closes popup]
 ###POP UP
 **jmsMoMummyReleaseNonVIP**
 [Mo Mummy logo]
-Tagline: TBD
 [Something unique to Mo Mummy]
 CTA: LET'S PLAY! [goes to buy-in NonVIP_BuyInIDsJMS / theme: momummy]
 
 ###POP UP
 **jmsMoMummyReleaseVIP**
 [Mo Mummy logo]
-Tagline: TBD
 [Something unique to Mo Mummy]
 CTA: PLAY VIP! [goes to buy-in VIP_BuyInIDsJMS / theme: momummy]
 

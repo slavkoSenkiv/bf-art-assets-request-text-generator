@@ -1,7 +1,6 @@
 import pyperclip, re, pyinputplus
 from pathlib import Path
 
-
 # <editor-fold desc="functions">
 def ask(thing):
     thing = input(f'enter {thing} or pres "enter" if TBD: ')
@@ -92,7 +91,6 @@ def handler(doc_file, new_name, buyInIds_BFC, buyInIds_JMS, theme_name):
     pyperclip.copy(file_content)
     print(file_content)
 # </editor-fold>
-
 
 # <editor-fold desc="ask input part">
 newSlotNameNormal = ask('SLOT NAME')
